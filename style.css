@@ -131,7 +131,9 @@ h2{
 .next-button{  
   margin-left:43%;
   margin-right:43%;
-  font-size:20px;}
+  font-size:20px;
+  background-color:green;
+  border: 2px solid}
 
   .moving_on_correct{
   margin-left:45%;
