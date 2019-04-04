@@ -7,6 +7,13 @@ html, body{
   height:100%;
 }
 
+button{
+  cursor:pointer;
+}
+
+input{
+  cursor:pointer;
+}
 
 
 html {
@@ -102,6 +109,8 @@ li{
   margin-left:45%;
   margin-right:45%;
   font-size:25px;
+  background-color:gold;
+  border: 2px solid black;
 }
 
 h2{
@@ -128,6 +137,8 @@ h2{
   margin-left:45%;
   margin-right:45%;
   font-size:25px;
+  background-color:gold;
+  border: 2px solid black;
 }
 
 .replaybutton{
@@ -210,6 +221,8 @@ li{
   margin-left:40%;
   margin-right:40%;
   font-size:20px;
+  background-color:gold;
+  border: 2px solid black;
 }
 
 h2{
@@ -230,12 +243,16 @@ h2{
 .next-button{  
   margin-left:43%;
   margin-right:43%;
-  font-size:20px;}
+  font-size:20px;
+  background-color:green;
+  border: 2px solid}
 
   .moving_on_correct{
   margin-left:40%;
   margin-right:40%;
   font-size:20px;
+  background-color:gold;
+  border: 2px solid black;
 }
 
 .replaybutton{
@@ -321,6 +338,8 @@ li{
   margin-left:40%;
   margin-right:40%;
   font-size:20px;
+  background-color:gold;
+  border: 2px solid black;
 }
 
 h2{
@@ -341,12 +360,16 @@ h2{
 .next-button{  
   margin-left:43%;
   margin-right:43%;
-  font-size:20px;}
+  font-size:20px;
+  background-color:green;
+  border: 2px solid}
 
   .moving_on_correct{
   margin-left:40%;
   margin-right:40%;
   font-size:20px;
+  background-color:gold;
+  border: 2px solid black;
 }
 
 .replaybutton{
