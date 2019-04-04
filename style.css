@@ -15,7 +15,6 @@ input{
   cursor:pointer;
 }
 
-
 html {
   background: url("https://i.ytimg.com/vi/8Fxl2p3AWj0/maxresdefault.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -131,9 +130,10 @@ h2{
 .next-button{  
   margin-left:43%;
   margin-right:43%;
-  font-size:20px;
+  font-size:24px;
   background-color:green;
-  border: 2px solid black;}
+  border: 2px solid black;
+  }
 
   .moving_on_correct{
   margin-left:45%;
@@ -223,8 +223,6 @@ li{
   margin-left:40%;
   margin-right:40%;
   font-size:20px;
-  background-color:gold;
-  border: 2px solid black;
 }
 
 h2{
@@ -245,16 +243,12 @@ h2{
 .next-button{  
   margin-left:43%;
   margin-right:43%;
-  font-size:20px;
-  background-color:green;
-  border: 2px solid black;}
+  font-size:20px;}
 
   .moving_on_correct{
   margin-left:40%;
   margin-right:40%;
   font-size:20px;
-  background-color:gold;
-  border: 2px solid black;
 }
 
 .replaybutton{
@@ -271,6 +265,14 @@ h2{
   background-color:none;
 }
 
+button{
+  cursor:pointer;
+}
+
+input{
+  cursor:pointer;
+}
+
 
 }
 
@@ -284,6 +286,14 @@ h2{
 .trinkot{
   color:white;
   font-size:22px;
+}
+
+button{
+  cursor:pointer;
+}
+
+input{
+  cursor:pointer;
 }
 
 h1{
@@ -340,8 +350,6 @@ li{
   margin-left:40%;
   margin-right:40%;
   font-size:20px;
-  background-color:gold;
-  border: 2px solid black;
 }
 
 h2{
@@ -362,16 +370,12 @@ h2{
 .next-button{  
   margin-left:43%;
   margin-right:43%;
-  font-size:20px;
-  background-color:green;
-  border: 2px solid black;}
+  font-size:20px;}
 
   .moving_on_correct{
   margin-left:40%;
   margin-right:40%;
   font-size:20px;
-  background-color:gold;
-  border: 2px solid black;
 }
 
 .replaybutton{
