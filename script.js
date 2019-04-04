@@ -119,7 +119,7 @@ function addAllQuestions(){
         <label for = "${QUESTION_BANK[i].ans3}">${QUESTION_BANK[i].ans3}</label></li>
         </ul>
       </fieldset>
-      <button type = "button" label = "next-button" id = "${joshua}" class = "next-button">Next</button>
+      <button type = "button" label = "next-button" id = "${joshua}" class = "next-button"><b>Next</b></button>
       </form>`);
     //appending two sections, only one of which will display depending on whether the correct answer was picked or not.
       $('div').append(
